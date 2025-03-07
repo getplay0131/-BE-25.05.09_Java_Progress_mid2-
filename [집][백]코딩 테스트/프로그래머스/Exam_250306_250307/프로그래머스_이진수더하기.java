@@ -1,4 +1,4 @@
-package Exam_250306;
+package Exam_250306_250307;
 
 public class 프로그래머스_이진수더하기 {
     public String solution(String bin1, String bin2) {
