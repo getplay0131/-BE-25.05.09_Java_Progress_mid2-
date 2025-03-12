@@ -1,4 +1,10 @@
 package model.order;
+
+import model.product.Product;
+
+import java.time.LocalDateTime;
+import java.util.ArrayList;
+
 /*
  * 주문 정보를 나타내는 클래스
  *
@@ -15,4 +21,45 @@ package model.order;
  * 9. toString() 메서드 오버라이딩: 주문 정보 출력
  */
 public class Order {
+    private String orderId;
+    private String userId;
+    private ArrayList<OrderItem> orderItems;
+    private LocalDateTime orderTime;
+    private int totalPrice;
+    private String orderStat;
+
+
+    //    2. 생성자 구현 (현재 시간으로 주문일시 초기화)
+    public Order(String orderId, String userId, ArrayList<OrderItem> orderItems, int totalPrice, String orderStat) {
+        this.orderId = orderId;
+        this.userId = userId;
+        this.orderItems = new ArrayList<>();
+        this.orderTime = LocalDateTime.now();
+        this.totalPrice = totalPrice;
+        this.orderStat = orderStats.PENDING.toString();
+    }
+
+//    4. 주문 항목 추가 메서드 구현
+    public void addOredrItem(OrderItem orderItem){
+        orderItems.add(orderItem);
+    }
+
+//    5. 총액 계산 메서드 구현
+    public void updateTotalPrice(){
+        totalPrice = 0;
+        for (OrderItem orderItem : orderItems) {
+            totalPrice += orderItem.calculateTotalPrice();
+        }
+    }
+
+//    6. 주문 상태 변경 메서드 구현
+
+    //    3. 주문 상태 Enum 내부 정의 (PENDING, PAID, SHIPPED, DELIVERED, CANCELLED)
+    private enum orderStats {
+        PENDING, PAID, SHIPPED, DELIVERED, CANCELLED;
+
+
+
+
+    }
 }
