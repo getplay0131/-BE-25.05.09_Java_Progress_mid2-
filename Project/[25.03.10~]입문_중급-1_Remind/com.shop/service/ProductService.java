@@ -27,12 +27,19 @@ import java.util.Comparator;
 public class ProductService {
     //  *  1. 싱글톤 패턴 적용 (인스턴스를 하나만 생성하여 공유)
 // * 2. 상품 목록을 ArrayList<Product>로 관리
-    private Product product;
+    private static ProductService productService;
     private ArrayList<Product> productList;
 
-    public ProductService(Product product) {
-        this.product = product;
+//    매개변수가 없는 private 생성자가 싱글톤과 맞다.
+    private ProductService() {
         this.productList = new ArrayList<>();
+    }
+
+    public static ProductService getProductService() {
+        if (productService == null) {
+            productService = new ProductService();
+        }
+        return productService;
     }
 
     //* 3. 상품 추가 메서드 구현
