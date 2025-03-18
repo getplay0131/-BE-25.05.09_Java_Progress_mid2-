@@ -47,11 +47,12 @@ public class Order {
     }
 
     //    5. 총액 계산 메서드 구현
-    public void updateTotalPrice() {
+    public int updateTotalPrice() {
         totalPrice = 0;
         for (OrderItem orderItem : orderItems) {
             totalPrice += orderItem.calculateTotalPrice();
         }
+        return totalPrice;
     }
 
     //    6. 주문 상태 변경 메서드 구현
