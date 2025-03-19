@@ -1,4 +1,11 @@
 package ui;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+import model.product.Product;
+import service.*;
+
 /*
  * 콘솔 기반 사용자 인터페이스 클래스
  *
@@ -15,4 +22,40 @@ package ui;
  * 10. 입력값 검증 및 예외 처리 메서드 구현
  */
 public class ShopConsoleUI {
+    public static void main(String[] args) throws Exception {
+//        버퍼 리더 호출
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+//         * 2. 각 서비스 클래스의 인스턴스 참조
+//        서비스 인스턴스 호출
+        UserService userService = UserService.getUserService();
+        CartService cartService = CartService.getCartService();
+        ProductService productService = ProductService.getProductService();
+        OrderService orderService = OrderService.getOrderService();
+
+        boolean isEndRoop = false;
+//        * 3. 메인 메뉴 표시 및 처리 메서드 구현
+        while (isEndRoop) {
+            System.out.println("안녕하세요! 오늘도 저희 클릭스에 방문하신것을 환영합니다!");
+            System.out.println("어떤 기능을 이용하시겠어요?");
+            System.out.println("1. 사용자 정보 관리");
+            System.out.println("2. 장바구니 관리");
+            System.out.println("3. 상품 관리");
+            System.out.println("4. 주문 내역 관리");
+            System.out.println("-- 번호를 입력해주세요! ex)1번 or 1");
+            String choice = reader.readLine();
+
+            if (choice.contains("1")) {
+
+            } else if (choice.contains("2")) {
+
+            } else if (choice.contains("3")) {
+
+            } else if (choice.contains("4")) {
+
+            } else {
+                System.out.println("올바른 값을 입력해주세요!");
+            }
+        }
+    }
 }

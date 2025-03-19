@@ -41,6 +41,26 @@ public class Order {
         this.isCheckPayed = false;
     }
 
+    public String getOrderId() {
+        return orderId;
+    }
+
+    public String getUserId() {
+        return userId;
+    }
+
+    public int getTotalPrice() {
+        return totalPrice;
+    }
+
+    public orderStats getOrderStats() {
+        return orderStats;
+    }
+
+    public boolean isCheckPayed() {
+        return isCheckPayed;
+    }
+
     //    4. 주문 항목 추가 메서드 구현
     public void addOrderItem(OrderItem orderItem) {
         orderItems.add(orderItem);
@@ -86,13 +106,13 @@ public class Order {
     //    PENDING, PAID, SHIPPED, DELIVERED, CANCELLED;
     public void orderStatToKor(orderStats oredrStats) {
         System.out.print("주문 상태 : ");
-        if (oredrStats.equals("PENDING")) {
+        if (oredrStats == orderStats.PENDING) {
             System.out.println("주문 대기중");
-        } else if (oredrStats.equals("PAID")) {
+        } else if (oredrStats == orderStats.PAID) {
             System.out.println("결제 완료");
-        } else if (oredrStats.equals("SHIPPED")) {
+        } else if (oredrStats == orderStats.SHIPPED) {
             System.out.println("택배사 전달 대기중");
-        } else if (oredrStats.equals("DELIVERED")) {
+        } else if (oredrStats == orderStats.DELIVERED) {
             System.out.println("배송중");
         } else {
             System.out.println("취소됨");
@@ -133,6 +153,8 @@ public class Order {
     //    3. 주문 상태 Enum 내부 정의 (PENDING, PAID, SHIPPED, DELIVERED, CANCELLED)
     public enum orderStats {
         PENDING, PAID, SHIPPED, DELIVERED, CANCELLED;
+
+
     }
 
 
