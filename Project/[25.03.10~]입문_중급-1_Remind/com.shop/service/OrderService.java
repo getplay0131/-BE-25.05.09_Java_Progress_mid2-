@@ -41,6 +41,10 @@ public class OrderService {
         return orderService;
     }
 
+    public ArrayList<Order> getOrdersList() {
+        return ordersList;
+    }
+
     //    null 검사 메서드
     public boolean checkNull(Object object) {
         if (object == null) {

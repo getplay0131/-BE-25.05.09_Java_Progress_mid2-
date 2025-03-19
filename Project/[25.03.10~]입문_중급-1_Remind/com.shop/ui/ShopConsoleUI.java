@@ -2,7 +2,9 @@ package ui;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 
+import model.order.Order;
 import model.product.Product;
 import service.*;
 
@@ -26,35 +28,67 @@ public class ShopConsoleUI {
 //        버퍼 리더 호출
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-//         * 2. 각 서비스 클래스의 인스턴스 참조
+        boolean isEndRoop = false;
+//        * 3. 메인 메뉴 표시 및 처리 메서드 구현
+        while (!isEndRoop) {
+            displayMainMenu();
+            String choice = reader.readLine();
+            Object object = returnService(choice);
+            displayProductList(object);
+
+        }
+    }
+
+    public static void displayMainMenu() {
+        System.out.println("안녕하세요! 오늘도 저희 클릭스에 방문하신것을 환영합니다!");
+        System.out.println("어떤 기능을 이용하시겠어요?");
+        System.out.println("1. 사용자 정보 관리");
+        System.out.println("2. 장바구니 관리");
+        System.out.println("3. 상품 관리");
+        System.out.println("4. 주문 내역 관리");
+        System.out.println("-- 번호를 입력해주세요! ex)1번 or 1 --");
+    }
+
+    public static Object returnService(String choice) {
+        //         * 2. 각 서비스 클래스의 인스턴스 참조
 //        서비스 인스턴스 호출
         UserService userService = UserService.getUserService();
         CartService cartService = CartService.getCartService();
         ProductService productService = ProductService.getProductService();
         OrderService orderService = OrderService.getOrderService();
+        if (choice.contains("1")) {
+//        사용자 정보 관리
+            return userService;
+        } else if (choice.contains("2")) {
+//      장바구니 관리
+            return cartService;
+        } else if (choice.contains("3")) {
+//      상품 관리
+            return productService;
+        } else if (choice.contains("4")) {
+//      주문 관리
+            return  orderService;
+        } else {
+            System.out.println("올바른 값을 입력해주세요!");
+        }
+        return null;
+    }
 
-        boolean isEndRoop = false;
-//        * 3. 메인 메뉴 표시 및 처리 메서드 구현
-        while (isEndRoop) {
-            System.out.println("안녕하세요! 오늘도 저희 클릭스에 방문하신것을 환영합니다!");
-            System.out.println("어떤 기능을 이용하시겠어요?");
-            System.out.println("1. 사용자 정보 관리");
-            System.out.println("2. 장바구니 관리");
-            System.out.println("3. 상품 관리");
-            System.out.println("4. 주문 내역 관리");
-            System.out.println("-- 번호를 입력해주세요! ex)1번 or 1");
-            String choice = reader.readLine();
-
-            if (choice.contains("1")) {
-
-            } else if (choice.contains("2")) {
-
-            } else if (choice.contains("3")) {
-
-            } else if (choice.contains("4")) {
-
+//    * 4. 상품 목록 표시 메서드 구현
+    public static void displayProductList(Object service){
+        ArrayList<Order> orders = new ArrayList<>();
+        if (service instanceof OrderService orderService) {
+            orders = orderService.getOrdersList();
+            if (!orders.isEmpty()) {
+                System.out.println(" == 상품 목록 == ");
+                for (Order order : orders) {
+                    System.out.println("주문 번호 : " + order.getOrderId());
+                    System.out.println("주문 상태 : " + order.getOrderStats());
+                    System.out.println("총액 : " + order.getTotalPrice());
+                    System.out.println(" -------------- ");
+                }
             } else {
-                System.out.println("올바른 값을 입력해주세요!");
+                System.out.println("등록된 상품이 없습니다!");
             }
         }
     }
