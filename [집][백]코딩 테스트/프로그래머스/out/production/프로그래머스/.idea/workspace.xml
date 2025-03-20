@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0179723e-c96c-47ce-945f-28028b3c276a" name="Changes" comment="" />
+    <list default="true" id="b44164ed-ad4a-416c-8aa2-7ce664225283" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2u80Fy1UQYgIO7Ir4X6FYrZRwL6" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2uZ9uQJb1ShNkWuNztfrb398KlS" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,20 +21,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.문자열계산하기.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/[집]자기계발/[집]공부/[집]컴퓨터 공학/[집]웹개발/[집]백엔드/[집][리마인드][자바] 소스 코드/[백] Java/[집][백]인프런 - 김영한의 자바/[집][백]코딩 테스트/프로그래머스",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "F:/[집]자기계발/[집]공부/[집]컴퓨터 공학/[집]웹개발/[집]백엔드/[집][리마인드][자바] 소스 코드/[백] Java/[집][백]인프런 - 김영한의 자바/[집][백]코딩 테스트/프로그래머스/Exam_250320"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\[집]자기계발\[집]공부\[집]컴퓨터 공학\[집]웹개발\[집]백엔드\[집][리마인드][자바] 소스 코드\[백] Java\[집][백]인프런 - 김영한의 자바\[집][백]코딩 테스트\프로그래머스\Exam_250320" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0179723e-c96c-47ce-945f-28028b3c276a" name="Changes" comment="" />
-      <created>1741614793242</created>
+      <changelist id="b44164ed-ad4a-416c-8aa2-7ce664225283" name="Changes" comment="" />
+      <created>1742445451489</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741614793242</updated>
+      <updated>1742445451489</updated>
     </task>
     <servers />
   </component>
