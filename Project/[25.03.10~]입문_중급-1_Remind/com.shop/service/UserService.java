@@ -160,12 +160,10 @@ public class UserService {
                 if (findUserId(user)) {
                     userList.remove(i);
                 }
-                System.out.println("사용자 정보 업데이트 완료");
+                System.out.println("사용자 정보 삭제 완료");
             }
             System.out.println("사용자 삭제 실패");
         }
-
-
         System.out.println("사용자 삭제 완료");
     }
 
