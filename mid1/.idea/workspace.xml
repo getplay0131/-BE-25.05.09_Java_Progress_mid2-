@@ -112,7 +112,6 @@
     "Application.MainV2.executor": "Run",
     "Application.MainV3.executor": "Run",
     "Application.MainV4.executor": "Run",
-    "Application.MainV5.executor": "Debug",
     "Application.MathMain.executor": "Run",
     "Application.MemberMainV1.executor": "Run",
     "Application.MemberMainV2.executor": "Run",
@@ -216,7 +215,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/[집]자기계발/[집]공부/[집]컴퓨터 공학/[집]웹개발/[집]백엔드/[집][리마인드][자바] 소스 코드/[백] Java/[집][백]인프런 - 김영한의 자바/[집][백]코딩 테스트",
+    "last_opened_file_path": "C:/Users/윤승현/Desktop/[노트북]개발자/[노트북]백엔드/[노트북][리마인드][백엔드] 소스 코드/java/인프런/[노트북]코딩 테스트",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -228,14 +227,14 @@
       <recent name="F:\[집]자기계발\[집]공부\[집]컴퓨터 공학\[집]웹개발\[집]백엔드\[집][리마인드][자바] 소스 코드\[백] Java\[집][백]인프런 - 김영한의 자바\mid1\src\Progress_250124" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Progress_250227_250228.exception.ex4.exception" />
       <recent name="Progress_250227.exception.ex4.exception" />
       <recent name="Progress_250227.exception.ex3.exception" />
       <recent name="Progress_250226.exception.ex2" />
       <recent name="Progress_250225.exception.basic.unchecked" />
+      <recent name="Progress_250221.exception.ex0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainV5">
+  <component name="RunManager" selected="Application.MainV4">
     <configuration name="MainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Progress_250226.exception.ex2.MainV2" />
       <module name="mid1" />
@@ -275,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250227_250228.exception.ex4.exception.MainV5" />
+    <configuration name="UnchekedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250225.exception.basic.unchecked.UnchekedCatchMain" />
       <module name="mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250227_250228.exception.ex4.exception.*" />
+          <option name="PATTERN" value="Progress_250225.exception.basic.unchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainV5" />
         <item itemvalue="Application.MainV4" />
         <item itemvalue="Application.MainV3" />
         <item itemvalue="Application.MainV2" />
         <item itemvalue="Application.UnchekedThrowMain" />
+        <item itemvalue="Application.UnchekedCatchMain" />
       </list>
     </recent_temporary>
   </component>
@@ -515,86 +514,6 @@
           <line>34</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/NetworkServiceV5.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/NetworkServiceV5.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/NetworkServiceV5.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/NetworkServiceV5.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/NetworkServiceV5.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/Progress_250214/nested/local/LocalOuterV3.java</url>
           <line>5</line>
@@ -624,15 +543,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Progress_250227_250228/exception/ex4/exception/MainV5.java</url>
-          <line>26</line>
-          <properties class="Progress_250227_250228.exception.ex4.exception.MainV5" method="exceptionHandler">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

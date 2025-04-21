@@ -277,7 +277,6 @@ public class ShopConsoleUI {
     //    * 9. 사용자 로그인/등록 메서드 구현
 
     public static User userLogin(BufferedReader reader) throws Exception {
-        User targetUser = null;
         System.out.print("아이디를 입력해 주세요 : ");
         String inputId = reader.readLine();
         System.out.println();
