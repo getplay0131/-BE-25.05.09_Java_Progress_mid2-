@@ -43,11 +43,16 @@
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
+    "Application.HashAndEqualMain1.executor": "Run",
+    "Application.HashAndEqualMain2.executor": "Run",
+    "Application.HashAndEqualMain3.executor": "Run",
     "Application.HashStart1.executor": "Run",
     "Application.HashStart2.executor": "Run",
     "Application.HashStart3.executor": "Run",
     "Application.HashStart4.executor": "Run",
     "Application.HashStart5.executor": "Run",
+    "Application.JavaHashCodeMain.executor": "Run",
+    "Application.JavaSetMain.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Run",
     "Application.MethodMain1.executor": "Run",
@@ -60,6 +65,9 @@
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyHashSetV0Main.executor": "Run",
     "Application.MyHashSetV1Main.executor": "Run",
+    "Application.MyHashSetV2Main.executor": "Run",
+    "Application.MyHashSetV2Main2.executor": "Run",
+    "Application.MyHashSetV3Main.executor": "Run",
     "Application.MyLinkedList1Main.executor": "Run",
     "Application.MyLinkedList2Main.executor": "Run",
     "Application.MyLinkedList3Main.executor": "Run",
@@ -69,9 +77,14 @@
     "Application.NodeMain3.executor": "Run",
     "Application.PairTest.executor": "Run",
     "Application.RawTypeMain.executor": "Run",
+    "Application.RectangleTest.executor": "Run",
+    "Application.SetOperationTest.executor": "Debug",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
     "Application.StringHashMain.executor": "Run",
+    "Application.UniqueNamesTest1.executor": "Run",
+    "Application.UniqueNamesTest2.executor": "Run",
+    "Application.UniqueNamesTest3.executor": "Run",
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
@@ -80,7 +93,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/[집]자기계발/[집]공부/[집]컴퓨터 공학/[집]웹개발/[집]백엔드/[집][리마인드][자바] 소스 코드/[백] Java/[집][백]인프런 - 김영한의 자바/mid2",
+    "last_opened_file_path": "F:/[집]자기계발/[집]공부/[집]컴퓨터 공학/[집] 프로그래밍/[집]백엔드/[집][리마인드][자바] 소스 코드/[백] Java/[집][백]JavaSource/mid2",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -89,11 +102,11 @@
       <recent name="C:\Users\윤승현\Desktop\[노트북]개발자\[노트북]백엔드\[노트북][리마인드][백엔드] 소스 코드\java\인프런\mid2\src\Progress_250415" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Progress_250423.collection.set.test" />
+      <recent name="Progress_250422.collection.set" />
+      <recent name="Progress_250422.collection.set.member" />
       <recent name="Progress_250421.collection.set" />
       <recent name="Progress_250416" />
-      <recent name="Progress_250415.test.ex1" />
-      <recent name="Progress_250415" />
-      <recent name="Progress_250414.collection.list" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,5 +119,90 @@
       <updated>1743397402826</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
+          <line>36</line>
+          <properties class="Progress_250423.collection.set.test.SetOperationTest" method="addSet">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
