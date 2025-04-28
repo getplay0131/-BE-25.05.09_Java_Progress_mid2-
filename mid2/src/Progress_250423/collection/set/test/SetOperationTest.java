@@ -29,7 +29,7 @@ public class SetOperationTest {
 
 //        차집합
         TreeSet<Integer> sub = new TreeSet<>(set1);
-        set1.removeAll(set2);
+        sub.removeAll(set2);
         System.out.println("차집합 : " + sub);
 
     }
