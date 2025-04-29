@@ -5,104 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9389286-8616-487b-8b0a-7c5075513cd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/betterCommentsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mid1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mid1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mid1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mid1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/animal/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/animal/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/animal/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/animal/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/BoxMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/BoxMain1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/BoxMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/BoxMain2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/BoxMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/BoxMain3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/GenericBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/GenericBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/IntegerBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/IntegerBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/ObjectBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/ObjectBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/RawTypeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/RawTypeMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/StringBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex1/StringBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex2/AnimalMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex2/AnimalMain1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex2/AnimalMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex2/AnimalMain2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex2/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/ex2/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex1/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex1/Container.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex1/ContainerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex1/ContainerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex2/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex2/Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex2/PairTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250331/generic/test/ex2/PairTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalMainV3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalV3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/AnimalHospitalV3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/CatHospital.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/CatHospital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/DogHospital.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex3/DogHospital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/AnimalMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/AnimalMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/ComplexBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/ComplexBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/GenericMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/MethodMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/MethodMain1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/MethodMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/MethodMain2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/MethodMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250401/generic/ex4/MethodMain3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/EraserBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/EraserBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/WildcardEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/WildcardEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/WildcardMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/WildcardMain1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/WildcardMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/ex5/WildcardMain2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/BioUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/BioUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Marine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Marine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Shuttle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Shuttle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/ShuttleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/ShuttleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitPrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitPrinterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitUtilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/UnitUtilTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Zealot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Zealot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Zergling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250402/generic/test/ex3/unit/Zergling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/ArrayMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/ArrayMain1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/ArrayMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/ArrayMain2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList1Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList2Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList3Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList4Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayList4Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV3BadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV3BadMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250407_08/collection/array/MyArrayListV4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedList1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedList1Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedList2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedList2Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedList3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedList3Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV3$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV3$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/MyLinkedListV3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/NodeMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/NodeMain1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/NodeMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/NodeMain2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/NodeMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250409/collection/link/NodeMain3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/BatchProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/BatchProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/BatchProcessorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/BatchProcessorMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyListPerfornanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250414/collection/list/MyListPerfornanceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/BatchProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/BatchProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/BatchProcessorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/BatchProcessorMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyListPerfornanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/MyListPerfornanceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/javaListPerfornanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/javaListPerfornanceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ArrayEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ArrayEx1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ListEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ListEx2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ListEx2_2nd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ListEx2_2nd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ListEx3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex1/ListEx3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex2/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex2/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex2/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex2/ShoppingCart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex2/ShoppingCartMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250415/test/ex2/ShoppingCartMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,16 +46,21 @@
     "Application.ArrayEx1.executor": "Run",
     "Application.ArrayMain1.executor": "Run",
     "Application.ArrayMain2.executor": "Run",
+    "Application.ArrayToMapTest.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
     "Application.BoxMain.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
+    "Application.CommonKeyValueSum1.executor": "Debug",
     "Application.ContainerTest.executor": "Run",
     "Application.DequeMain.executor": "Run",
     "Application.DequeQueueMain.executor": "Run",
     "Application.DequeStackMain.executor": "Run",
+    "Application.DictionaryTest.executor": "Run",
+    "Application.ItemPriceTest.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Run",
+    "Application.MemberRepositioryMain.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -176,6 +84,7 @@
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
     "Application.WildcardMain2.executor": "Run",
+    "Application.WordFrequencyTest1.executor": "Run",
     "Application.javaListPerfornanceTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -200,13 +109,13 @@
       <recent name="Progress_250409.collection.link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DequeQueueMain">
-    <configuration name="DequeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.DequeMain" />
+  <component name="RunManager" selected="Application.MemberRepositioryMain">
+    <configuration name="CommonKeyValueSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.CommonKeyValueSum1" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeQueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.DequeQueueMain" />
+    <configuration name="DictionaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.DictionaryTest" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +136,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeStackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.DequeStackMain" />
+    <configuration name="ItemPriceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.ItemPriceTest" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberRepositioryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.member.MemberRepositioryMain" />
+      <module name="mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Progress_250429.map.test.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequencyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.WordFrequencyTest1" />
+      <module name="mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,9 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DequeQueueMain" />
-        <item itemvalue="Application.DequeStackMain" />
-        <item itemvalue="Application.DequeMain" />
+        <item itemvalue="Application.MemberRepositioryMain" />
+        <item itemvalue="Application.DictionaryTest" />
+        <item itemvalue="Application.ItemPriceTest" />
+        <item itemvalue="Application.WordFrequencyTest1" />
+        <item itemvalue="Application.CommonKeyValueSum1" />
       </list>
     </recent_temporary>
   </component>
@@ -258,5 +195,46 @@
       <updated>1743397402826</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
