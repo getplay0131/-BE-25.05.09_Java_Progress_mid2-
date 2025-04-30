@@ -26,12 +26,13 @@ public class MemberRepository {
         if (id.isEmpty()) {
             System.out.println("입력값이 올바르지 않습니다.");
         }
-        for (String string : memberMap.keySet()) {
-            for (Member value : memberMap.values()) {
-                if (value.getId().equals(id)) {
-                    return value;
-                }
-            }
+//        for (Map.Entry<String, Member> entry : memberMap.entrySet()) {
+//            if (entry.getKey().equals(id)) {
+//                return entry.getValue();
+//            }
+//        }
+        if (memberMap.containsKey(id)) {
+           return memberMap.get(id);
         }
         return null;
     }
@@ -40,11 +41,9 @@ public class MemberRepository {
         if (name.isEmpty()) {
             System.out.println("입력값이 올바르지 않습니다.");
         }
-        for (String string : memberMap.keySet()) {
-            for (Member value : memberMap.values()) {
-                if (value.getName().equals(name)) {
-                    return value;
-                }
+        for (Map.Entry<String, Member> entry : memberMap.entrySet()) {
+            if (entry.getValue().getName().equals(name)) {
+                return entry.getValue();
             }
         }
         return null;

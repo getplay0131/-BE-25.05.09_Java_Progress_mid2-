@@ -12,8 +12,6 @@ public class DictionaryTest {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         Map<String, String> map = new HashMap<>();
 
-        String inputCondA = "";
-        String inputCondB = "";
         boolean condA= false;
         boolean condB= false;
         while (!condA && !condB){
@@ -38,11 +36,9 @@ public class DictionaryTest {
                     break;
                 }
                 boolean isFind = false;
-                for (Map.Entry<String, String> entry : map.entrySet()) {
-                    if (entry.getKey().equals(word)) {
-                        System.out.println(entry.getValue());
-                        isFind = true;
-                    }
+                if (map.containsKey(word)) {
+                    System.out.println(map.get(word));
+                    isFind = true;
                 }
                 if(!isFind){
                     System.out.println(word + "은(는) 사전에 없는 단어입니다. ");
