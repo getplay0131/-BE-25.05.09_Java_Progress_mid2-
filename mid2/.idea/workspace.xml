@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9389286-8616-487b-8b0a-7c5075513cd4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Progress_250429/map/test/DictionaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Progress_250429/map/test/DictionaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Progress_250429/map/test/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Progress_250429/map/test/member/MemberRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +54,15 @@
     "Application.BoxMain3.executor": "Run",
     "Application.BrowserHistoryTest.executor": "Run",
     "Application.CartMain.executor": "Run",
+    "Application.CollectionsSortMain.executor": "Run",
     "Application.CommonKeyValueSum1.executor": "Debug",
     "Application.ContainerTest.executor": "Run",
     "Application.DequeMain.executor": "Run",
     "Application.DequeQueueMain.executor": "Run",
     "Application.DequeStackMain.executor": "Run",
     "Application.DictionaryTest.executor": "Run",
+    "Application.EmptyListMain.executor": "Run",
+    "Application.ImmutableMain.executor": "Run",
     "Application.ItemPriceTest.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Run",
@@ -80,6 +82,7 @@
     "Application.NodeMain1.executor": "Run",
     "Application.NodeMain2.executor": "Run",
     "Application.NodeMain3.executor": "Run",
+    "Application.OfMain.executor": "Run",
     "Application.PairTest.executor": "Run",
     "Application.PrinterQueueTest.executor": "Run",
     "Application.RawTypeMain.executor": "Run",
@@ -87,6 +90,10 @@
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
     "Application.SimpleHistoryTest.executor": "Run",
+    "Application.SortMain3.executor": "Run",
+    "Application.SortMain4.executor": "Run",
+    "Application.SortMain5.executor": "Run",
+    "Application.SyncMain.executor": "Run",
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
@@ -109,20 +116,20 @@
       <recent name="C:\Users\윤승현\Desktop\[노트북]개발자\[노트북]백엔드\[노트북][리마인드][백엔드] 소스 코드\java\인프런\mid2\src\Progress_250415" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Progress_250508.collection.compare" />
       <recent name="Progress_250428.collection.map" />
       <recent name="Progress_250415.test.ex1" />
       <recent name="Progress_250415" />
       <recent name="Progress_250414.collection.list" />
-      <recent name="Progress_250409.collection.link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BrowserHistoryTest">
-    <configuration name="ArrayToMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.ArrayToMapTest" />
+  <component name="RunManager" selected="Application.SyncMain">
+    <configuration name="CollectionsSortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250508.collection.utils.CollectionsSortMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250429.map.test.*" />
+          <option name="PATTERN" value="Progress_250508.collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrowserHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250430.test.stack.BrowserHistoryTest" />
+    <configuration name="EmptyListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250508.collection.utils.EmptyListMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250430.test.stack.*" />
+          <option name="PATTERN" value="Progress_250508.collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DictionaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.DictionaryTest" />
+    <configuration name="ImmutableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250508.collection.utils.ImmutableMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250429.map.test.*" />
+          <option name="PATTERN" value="Progress_250508.collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ItemPriceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.ItemPriceTest" />
+    <configuration name="OfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250508.collection.utils.OfMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250429.map.test.*" />
+          <option name="PATTERN" value="Progress_250508.collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250430.test.queue.SchedulerTest" />
+    <configuration name="SyncMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250508.collection.utils.SyncMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250430.test.queue.*" />
+          <option name="PATTERN" value="Progress_250508.collection.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BrowserHistoryTest" />
-        <item itemvalue="Application.SchedulerTest" />
-        <item itemvalue="Application.ItemPriceTest" />
-        <item itemvalue="Application.DictionaryTest" />
-        <item itemvalue="Application.ArrayToMapTest" />
+        <item itemvalue="Application.SyncMain" />
+        <item itemvalue="Application.EmptyListMain" />
+        <item itemvalue="Application.ImmutableMain" />
+        <item itemvalue="Application.OfMain" />
+        <item itemvalue="Application.CollectionsSortMain" />
       </list>
     </recent_temporary>
   </component>
