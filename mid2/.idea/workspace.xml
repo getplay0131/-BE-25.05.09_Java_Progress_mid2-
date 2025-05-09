@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9389286-8616-487b-8b0a-7c5075513cd4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mid1/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mid1/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mid1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mid1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mid1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mid1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +56,7 @@
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
     "Application.BrowserHistoryTest.executor": "Run",
+    "Application.CardGameMain.executor": "Run",
     "Application.CartMain.executor": "Run",
     "Application.CollectionsSortMain.executor": "Run",
     "Application.CommonKeyValueSum1.executor": "Debug",
@@ -123,13 +127,13 @@
       <recent name="Progress_250414.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SyncMain">
-    <configuration name="CollectionsSortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250508.collection.utils.CollectionsSortMain" />
+  <component name="RunManager" selected="Application.CardGameMain">
+    <configuration name="CardGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_Exam_250509.CardGameMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250508.collection.utils.*" />
+          <option name="PATTERN" value="Progress_Exam_250509.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CardGameMain" />
         <item itemvalue="Application.SyncMain" />
         <item itemvalue="Application.EmptyListMain" />
         <item itemvalue="Application.ImmutableMain" />
         <item itemvalue="Application.OfMain" />
-        <item itemvalue="Application.CollectionsSortMain" />
       </list>
     </recent_temporary>
   </component>
