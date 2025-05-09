@@ -1,6 +1,7 @@
 package Progress_Exam_250509;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Player {
     private String name;
@@ -18,6 +19,7 @@ public class Player {
         for (int i = 0; i < 5; i++) {
             cards.add(new Card());
         }
+        Collections.sort(cards);
     }
 
     public Card getCards() {

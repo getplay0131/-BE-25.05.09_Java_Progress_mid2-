@@ -42,7 +42,10 @@ public class Card implements Comparable<Card> {
 
     @Override
     public int compareTo(Card o) {
-        return 0;
+        if (this.cardNumber != o.getCardNumber()) {
+            return this.cardNumber - o.getCardNumber();
+        }
+        return this.suit.ordinal() - o.suit.ordinal();
     }
 
     @Override
